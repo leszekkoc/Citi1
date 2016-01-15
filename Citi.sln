@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citi", "Citi\Citi.csproj", "{335C5C57-BC50-415F-A65F-B607AA1EDDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citi.Tests.Units", "Citi.Tests.Units\Citi.Tests.Units.csproj", "{910736FD-97FE-4385-A28E-946AED17F167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citi.Tests.Integration", "Citi.Tests.Integration\Citi.Tests.Integration.csproj", "{0D1C6C72-0EE7-49E2-9DFD-937D0264E9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335C5C57-BC50-415F-A65F-B607AA1EDDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C5C57-BC50-415F-A65F-B607AA1EDDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C5C57-BC50-415F-A65F-B607AA1EDDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C5C57-BC50-415F-A65F-B607AA1EDDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910736FD-97FE-4385-A28E-946AED17F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910736FD-97FE-4385-A28E-946AED17F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910736FD-97FE-4385-A28E-946AED17F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910736FD-97FE-4385-A28E-946AED17F167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1C6C72-0EE7-49E2-9DFD-937D0264E9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1C6C72-0EE7-49E2-9DFD-937D0264E9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1C6C72-0EE7-49E2-9DFD-937D0264E9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1C6C72-0EE7-49E2-9DFD-937D0264E9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
